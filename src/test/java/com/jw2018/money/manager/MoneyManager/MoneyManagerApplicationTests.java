@@ -8,6 +8,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 /**
  * MoneyManager application
  * Test commit 2
+ * Commit inside dev-branch-local
  */
 @RunWith(SpringRunner.class)
 @SpringBootTest
